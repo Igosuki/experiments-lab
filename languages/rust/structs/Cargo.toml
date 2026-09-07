@@ -1,0 +1,8 @@
+[package]
+name = "structs"
+version = "0.1.0"
+authors = ["Guillaume Balaine <igosuki@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+titlecase = "2.2.1"
